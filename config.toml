@@ -16,7 +16,7 @@ baseURL = "http://www.pausaniasleather.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Pausanias of Ithaca"
-theme = "tranquilpeak"
+theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
@@ -118,7 +118,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Peter John's tranquilpeak tweaks"
 
   # Customization
   # Define the behavior of the sidebar
