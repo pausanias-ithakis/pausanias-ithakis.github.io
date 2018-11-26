@@ -1,0 +1,6 @@
+baseURL = "http://www.pausaniasleather.com/"
+buildDrafts = true
+defaultContentLanguage = "en-us"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "tranquilpeak"
